@@ -42,3 +42,17 @@ body {
   align-items: top;
   gap: 12px;
 }
+
+.awesome-club-subscription-options {
+  display: flex;
+  justify-content: center;
+  align-items: top;
+  gap: 12px;
+}
+
+.multi-column {
+  display: flex;
+  flex: 1 1 0;
+  align-items: top;
+  gap: 12px;
+}
