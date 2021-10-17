@@ -28,3 +28,17 @@ body {
     background-position: 0% 50%;
   }
 }
+
+.title {
+  display: flex;
+  justify-content: center;
+  align-items: top;
+  gap: 12px;
+}
+
+.menu-top {
+  display: flex;
+  justify-content: center;
+  align-items: top;
+  gap: 12px;
+}
