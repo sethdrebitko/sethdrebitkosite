@@ -52,7 +52,10 @@ body {
 
 .multi-column {
   display: flex;
-  flex: 1 1 0;
   align-items: top;
-  gap: 12px;
+  gap: 5px;
+}
+
+.column {
+  flex: 1;
 }
