@@ -1,0 +1,92 @@
+* {
+  font-family: Arial;
+  color: #b3b3b3;
+}
+
+h1, h2, h3, h4 {
+  color: turquoise;
+}
+
+b {
+  color: orangered;
+}
+
+i {
+  color:rgb(211, 255, 15);
+}
+
+a:link {
+  color: red;
+}
+
+a:visited {
+  color: rgb(255, 136, 0);
+}
+
+a:hover {
+  color: hotpink;
+}
+
+a:active {
+  color: blue;
+}
+
+
+body {
+  padding-top: 50px;
+  padding-right: 10%;
+  padding-left: 10%;
+  padding-bottom: 50px;
+}
+
+body {
+  /*background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+  background: linear-gradient(-45deg, #eda18a, #eb78a4, #8bcae0, #a0f2df);*/
+  background: linear-gradient(-45deg, #121212, #3a3a3a, #181818, #282828);
+  background-size: 400% 400%;
+  animation: gradient 8s ease infinite;
+  height: 100vh;
+}
+
+@keyframes gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+  align-items: top;
+  gap: 12px;
+}
+
+.menu-top {
+  display: flex;
+  justify-content: center;
+  align-items: top;
+  gap: 12px;
+}
+
+.awesome-club-subscription-options {
+  display: flex;
+  justify-content: center;
+  align-items: top;
+  gap: 12px;
+}
+
+.multi-column {
+  display: flex;
+  align-items: top;
+  gap: 5px;
+}
+
+.column {
+  flex: 1;
+}
