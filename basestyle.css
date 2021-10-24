@@ -21,9 +21,9 @@ body {
 .block-container {
   margin-left: auto;
   margin-right: auto;
-  max-width: 64rem;
-  padding-right: 10%;
-  padding-left: 10%;
+  max-width: 50rem;
+  padding-right: 5%;
+  padding-left: 5%;
 }
 
 /* Header */
