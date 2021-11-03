@@ -56,6 +56,14 @@ body {
   flex: 1;
 }
 
+  .width90 {
+    width: 90%;
+  }
+
+  .width100 {
+    width: 39%;
+  }
+
 /* Button CSS */
 
 a.button1{
@@ -83,6 +91,6 @@ a.button1{
     }
   }
 
-  a.button100 {
+  a.width100 {
     width: 100%;
   }
