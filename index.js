@@ -28,16 +28,10 @@ try {
   // replace el with newEL
   DefaultMenu.outerHTML = 
   `
-  <div id="revue-embed">
-  <form action="https://www.getrevue.co/profile/sethdrebitko/add_subscriber" method="post" id="revue-form" name="revue-form"  target="_blank">
-  <div class="revue-form-group">
-    <label for="member_email">Email address</label>
-    <input class="revue-form-field" placeholder="Your email address..." type="email" name="member[email]" id="member_email">
-  </div>
-  <div class="revue-form-actions">
-    <input type="submit" value="Subscribe" name="member[subscribe]" id="member_submit">
-  </div>
-  </form>
-</div>
+  <h2>Monday Missives</h2>
+  
+  <p>Every other Monday I write a about the Apple and Developer news and resources I found through the week, as well as topics around pursuing indie entrepreneurship in a healthy balanced way.</p>
+  
+  <iframe src="https://sethdrebitko.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
   `;
 } catch{}
