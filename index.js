@@ -32,6 +32,7 @@ try {
   
   <p>Every other Monday I write a about the Apple and Developer news and resources I found through the week, as well as topics around pursuing indie entrepreneurship in a healthy balanced way.</p>
   
-  <iframe src="https://sethdrebitko.substack.com/embed" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+  <iframe src="https://sethdrebitko.substack.com/embed" width="380" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+  
   `;
 } catch{}
