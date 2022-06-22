@@ -10,9 +10,8 @@ try {
   // replace el with newEL
   DefaultMenu.outerHTML = 
   `
-              <h1 class="title">Seth Drebitko</h1>
+              <h1 class="title"><a href="/" class="button1">Seth Drebitko</a></h1>
               <div class="menu-top">
-                  <b><a href="/" class="button1">Home</a></b>
                   <b><a href="/monday-missives" class="button1" target="blank">Monday Missives</a></b>
               </div>
   `;
