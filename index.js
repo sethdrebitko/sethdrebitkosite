@@ -12,7 +12,7 @@ try {
   `
               <h1 class="title"><a href="/">Seth Drebitko</a></h1>
               <div class="menu-top">
-                  <b><a href="/monday-missives" class="button1" target="blank">Monday Missives</a></b>
+                  <b><a href="/newsletter" class="button1" target="blank">Newsletter</a></b>
               </div>
   `;
 } catch{}
