@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="basestyle.css" />
+  <title>Seth Drebitko</title>
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+</head>
+
+<body>
+  <div class="block-container">
+
+    <div class="header">
+      <h1 class="title">Seth Drebitko</h1>
+      <div id="default-menu"></div>
+    </div>
+
+    <p>
+      This is primarily my homebase for development news on my Indie Game Dev
+      journey, and the tools I'm both developing and finding to help. I'm also
+      sharing all my lessons learned along the journey to try and pursue my
+      passions in a healthy way while balancing a day job and family.
+    </p>
+
+    <h1>Projects</h1>
+
+    <h2>Text World</h2>
+
+    <p>
+      This is my first game project I'm working on. I absolutely love the story
+      engine (technical term?) underlying the game Rimworld. While I'm still
+      learning 2d art I've decided to restrict myself to just creating a
+      game using only text.
+    </p>
+
+    <p>
+      The game is one in which the player takes on the role of a group of
+      survivors crash landing on a planet full of crazy cannibals, warlords, and
+      monstrosities. In the beginning your colonists will struggle to survive in
+      their new harsh environment, but assuming they do you'll need to make the
+      decision to either tame this wild land and carve out a portion for
+      yourself, or cast your eyes back to the stars.
+    </p>
+
+    <h2>Learning 2d Art</h2>
+
+    <p>
+      While I don't envision myself becoming a master I'm hoping to acquire at least passable enough skills to get some
+      very simple art down.
+    </p>
+
+    <h2>Recovery</h2>
+    <p>
+      Since the start of the pandemic (I'm sure like many others) I've struggled pretty deeply with mental health
+      issues, which has also formed a feedback loop with declining physical fitness. While I have made a great deal of
+      progress on my mental health I'm still struggling with my physical health. Aside from getting more walking in and
+      eating healthier I'm also planning to implement a mobility routine.
+    </p>
+
+    <div id="default-email-form"></div>
+    
+  </div>
+</body>
+
+<footer>
+    <script src="index.js"></script>
+</footer>
+
+</html>

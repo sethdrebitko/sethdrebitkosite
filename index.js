@@ -12,7 +12,7 @@ try {
   `
               <div class="menu-top">
                   <b><a href="/" class="button1">Home</a></b>
-                  <b><a href="https://ko-fi.com/seth" class="button1" target="blank">Awesome Club</a></b>
+                  <b><a href="/monday-missives" class="button1" target="blank">Monday Missives</a></b>
               </div>
   `;
 } catch{}
